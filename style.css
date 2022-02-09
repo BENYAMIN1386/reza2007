@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+.area {
+    background: #111;
+    font-family: "Open Sans", Impact;
+}
+
+body {
+    background-color: #7700ff;
+    text-align: center;
+    font-family: 'Lalezar', cursive;
+}
+
+.area {
+    border-radius: 18px;
+    text-align: center;
+    font-size: 6.5em;
+    color: #fff;
+    letter-spacing: -7px;
+    font-weight: 700;
+    text-transform: uppercase;
+    animation: blur .75s ease-out infinite;
+    text-shadow: 0px 0px 5px #fff, 0px 0px 7px #fff;
+}
+
+@keyframes blur {
+    from {
+        text-shadow: 0px 0px 10px #fff, 0px 0px 10px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 25px #fff, 0px 0px 50px #fff, 0px 0px 50px #fff, 0px 0px 50px #7B96B8, 0px 0px 150px #7B96B8, 0px 10px 100px #7B96B8, 0px 10px 100px #7B96B8, 0px 10px 100px #7B96B8, 0px 10px 100px #7B96B8, 0px -10px 100px #7B96B8, 0px -10px 100px #7B96B8;
+    }
+}
+
+.div2 {
+    background-color: #91ff00;
+    width: 60vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.text1 {
+    text-align: center;
+    padding: 10px 20px;
+    color: #001219;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    border-bottom: solid 2px #001aff;
+}
+
+.div3 {
+    background-color: #7700ff;
+    width: 50vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 10px;
+}
+
+.div4 {
+    background-color: #ff0000;
+    width: 50vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 10px;
+}
+
+.insta {
+    background-color: #04fd04;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
+
+.واتساپ {
+    background-color: #0011ff;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
+
+.text2 {
+    background-color: #0011ff;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
